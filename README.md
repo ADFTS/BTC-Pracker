@@ -3,13 +3,25 @@ This is a small UI Based Program that displays the current live chart and price 
 
 Download Libraries
 
-Open Powershell
+Open Powershell in folder
 
 Python "BTC-Pracker.py"
 
 Enter
 -------------------------------
-Exe will come in a few days.
+you'll need to create the exe yourself because of 25mb limitation on github:
+
+Open Powershell in folder
+
+pyinstaller --onefile --windowed --icon=btc.ico BTC-Pracker.py
+
+>> wait a min
+
+>> succes
+
+
+
+
 
 
 
