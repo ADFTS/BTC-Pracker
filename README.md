@@ -10,3 +10,10 @@ Python "BTC-Pracker.py"
 Enter
 -------------------------------
 Exe will come in a few days.
+
+
+
+
+
+known bugs:
+Theme applies not correctly automatically. Restart is needed.
