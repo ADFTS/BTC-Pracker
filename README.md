@@ -1,3 +1,6 @@
+This is a small UI Based Program that displays the current live chart and price of Bitcoin.
+
+
 Download Libraries
 
 Open Powershell
