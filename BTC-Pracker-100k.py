@@ -145,7 +145,7 @@ def open_options():
     # Close button in the options window
     close_button = tk.Button(options_window, text='X', command=options_window.destroy, bg=theme_color, fg="black", borderwidth=0)
     close_button.config(font=('Arial', 12))
-    close_button.place(x=380, y=10)
+    close_button.place(x=365, y=10)
 
     # "Pick Theme" button in the options window
     theme_button = tk.Button(options_window, text="Pick Theme", command=pick_theme, bg=theme_color, fg="black", font=("Arial", 10))
@@ -159,7 +159,7 @@ def open_options():
                        bg="#2A2A2A", fg="white", selectcolor=theme_color).pack(pady=2)
 					   
     # BTC Address label (at the bottom, copyable with mouse)
-    btc_address = "Not Set"  # Example BTC address
+    btc_address = "bc1q4df4r739n0rrqdrcdx0dlj7ukklpykgxe7ekm2"  # BTC address
     btc_label = tk.Label(options_window, text="BTC Donations:", bg="#212121", fg="grey", font=("Arial", 9)).place(x=20, y=475)
 	
     # Author label (centered at the top)
