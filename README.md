@@ -23,6 +23,7 @@ pyinstaller --onefile --windowed --icon=btc.ico BTC-Pracker.py
 
 
 
+![Pracker](https://github.com/user-attachments/assets/9b5b7b4c-9bb3-4b2c-9c01-70da3409342d)
 
 
 
