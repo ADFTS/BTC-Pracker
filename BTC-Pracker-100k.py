@@ -648,7 +648,7 @@ def update_high_low():
         #low_label.config(text="Low: N/A")
     
     # Schedule the next update in 60 seconds
-    root.after(2000, update_high_low)
+    root.after(60000, update_high_low)
 
 # Initial call to display the first high/low values
 update_high_low()
