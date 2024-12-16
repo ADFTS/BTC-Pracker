@@ -1,4 +1,4 @@
-This is a small UI Based Program that displays the current live chart and price of Bitcoin.
+This is a small UI Based Program (1 to 1 Scale to Picture below) that displays the current live chart and price of Bitcoin.
 
 
 Download Libraries
