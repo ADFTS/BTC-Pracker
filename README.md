@@ -38,7 +38,7 @@ Original BTC Pracker 100k:
 
 ![Pracker](https://github.com/user-attachments/assets/9b5b7b4c-9bb3-4b2c-9c01-70da3409342d)
 
-New Versions:
+New Versions (labels were mixed up):
 
 <img width="640" height="966" alt="BTC-Pracker" src="https://github.com/user-attachments/assets/1434909a-c298-453f-a7a9-63e0b2715a52" />
 
