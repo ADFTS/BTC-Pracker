@@ -707,7 +707,7 @@ def update_conversion_reverse(event=None):
 		
 # Initialize the percentage label at the specified coordinates
 percent_label = tk.Label(root, text="", font=("Next Art", 10), bg="#212121")
-percent_label.place(x=450, y=10)
+percent_label.place(x=460, y=10)
 
 # Call the function to start live updates
 display_live_percentage_change()
@@ -875,4 +875,5 @@ update_rates()
 # ====== END of Converters======
 
 	
+
 root.mainloop()
