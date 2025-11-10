@@ -42,6 +42,12 @@ New Versions (labels were mixed up):
 
 <img width="640" height="966" alt="BTC-Pracker" src="https://github.com/user-attachments/assets/1434909a-c298-453f-a7a9-63e0b2715a52" />
 
+Even Newer Version (Profit Percentage) and the Options:
+
+<img width="639" height="447" alt="tracker" src="https://github.com/user-attachments/assets/9f3536d3-a889-4bd1-b4e5-8b3aa48688c6" />
+<img width="401" height="499" alt="options" src="https://github.com/user-attachments/assets/7cd7284a-85b6-4219-87e6-777ecff18d5d" />
+
+
 -----------------------------------------
 -----------------------------------------
 
